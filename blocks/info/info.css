@@ -1,0 +1,9 @@
+.info {
+  margin: 0 24px 36px;
+  display: grid;
+  grid-template-rows: 28px;
+  grid-template-areas:
+  "avatar title"
+  "avatar description";
+  column-gap: 16px;
+}

@@ -1,0 +1,8 @@
+.case__url-foot {
+    text-decoration: none;
+    font-size: 15px;
+    line-height: 20px;
+    font-feature-settings: 'liga' off;
+    color: #597DB3;
+    border-bottom: 1px solid rgba(89, 125, 179, .2);
+}

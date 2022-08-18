@@ -1,0 +1,8 @@
+.case__title-heading {
+  margin: 0 31px 12px 24px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  font-feature-settings: 'liga' off;
+  color: #111;
+}

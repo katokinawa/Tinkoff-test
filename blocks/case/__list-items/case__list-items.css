@@ -1,0 +1,9 @@
+.case__list-items {
+  background-color: #e0e0e0;
+  display: inline-block;
+  margin: 0 0 12px 24px;
+}
+
+.case__list-items:last-child {
+  margin: 0 0 5px 24px;
+}

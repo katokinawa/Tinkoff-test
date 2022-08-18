@@ -1,0 +1,7 @@
+.case__url-wrapper {
+  margin: 0 0 15px 24px;
+}
+
+.case__url-wrapper:last-child {
+  margin: 0 0 38px 24px;
+}

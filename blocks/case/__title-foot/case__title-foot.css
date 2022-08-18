@@ -1,0 +1,9 @@
+.case__title-foot {
+  margin: 0 0 0 24px;
+  padding: 0;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 28px;
+  font-feature-settings: 'liga' off;
+  color: #333;
+}

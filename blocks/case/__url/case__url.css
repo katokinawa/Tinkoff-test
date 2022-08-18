@@ -1,0 +1,12 @@
+.case__url {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 28px;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(51, 111, 238, .2);
+  font-feature-settings: 'liga' off;
+  color: #597DB3;
+}

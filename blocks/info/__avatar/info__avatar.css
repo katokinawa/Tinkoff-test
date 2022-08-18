@@ -1,0 +1,11 @@
+.info__avatar {
+  width: 64px;
+  height: 64px;
+  background-image: url(../../../images/avatar__footer.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 50%;
+  grid-area: avatar;
+  justify-content: start;
+  align-self: center;
+}

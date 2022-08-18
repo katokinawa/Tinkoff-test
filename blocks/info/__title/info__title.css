@@ -1,0 +1,9 @@
+.info__title {
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 20px;
+  color: #333;
+  grid-area: title;
+  justify-content: start;
+  align-self: center;
+}
