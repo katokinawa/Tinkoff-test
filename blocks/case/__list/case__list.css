@@ -8,3 +8,8 @@
   color: #808C9E;
 }
 
+@media screen and (min-width: 768px) {
+  .case__list {
+    margin: 8px 0 0 48px
+  }
+}

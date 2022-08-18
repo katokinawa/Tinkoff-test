@@ -1,13 +1,14 @@
-.case__subtitle {
+.case__subtitle-header {
   font-weight: 400;
   font-size: 15px;
   line-height: 24px;
   color: #808C9E;
   margin: 0 0 8px 24px;
 }
-
 @media screen and (min-width: 768px) {
-  .case__subtitle {
-    margin: 48px 0 0 48px;
+  .case__subtitle-header {
+    margin: 29px 0 0 48px;
+    grid-area: subtitle;
   }
 }
+

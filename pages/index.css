@@ -6,17 +6,21 @@
 @import url(../blocks/page/page.css);
 @import url(../blocks/content/content.css);
 @import url(../blocks/case/case.css);
+@import url(../blocks/case/__header/case__header.css);
 @import url(../blocks/case/__schild/case__schild.css);
 @import url(../blocks/case/__title-heading/case__title-heading.css);
 @import url(../blocks/case/__title/case__title.css);
 @import url(../blocks/case/__avatar/case__avatar.css);
+@import url(../blocks/case/__subtitle-header/case__subtitle-header.css);
 @import url(../blocks/case/__subtitle/case__subtitle.css);
 @import url(../blocks/case/__list/case__list.css);
 @import url(../blocks/case/__list-items/case__list-items.css);
 @import url(../blocks/case/__item/case__item.css);
 @import url(../blocks/case/__description/case__description.css);
 @import url(../blocks/case/__title-foot/case__title-foot.css);
+@import url(../blocks/case/__arrow/case__arrow.css);
 @import url(../blocks/case/__title-result/case__title-result.css);
+@import url(../blocks/case/__title-result/_large/case__title-result_large.css);
 @import url(../blocks/case/__span-accent/case__span-accent.css);
 @import url(../blocks/case/url-wrapper/case__url-wrapper.css);
 @import url(../blocks/case/__url/case__url.css);
@@ -28,4 +32,3 @@
 @import url(../blocks/info/__subtitle/info__subtitle.css);
 @import url(../blocks/info/__url/info__url.css);
 @import url(../blocks/case/__url-foot/case__url-foot.css);
-

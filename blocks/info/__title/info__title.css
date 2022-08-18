@@ -4,6 +4,11 @@
   line-height: 20px;
   color: #333;
   grid-area: title;
-  justify-content: start;
   align-self: center;
+}
+
+@media screen and (min-width: 768px) {
+  .info__title {
+    align-self: end;
+}
 }

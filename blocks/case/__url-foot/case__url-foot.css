@@ -6,3 +6,11 @@
     color: #597DB3;
     border-bottom: 1px solid rgba(89, 125, 179, .2);
 }
+
+@media screen and (min-width: 768px) {
+  .case__url-foot {
+    position: absolute;
+    top: -22px;
+    left: 392px;
+  }
+}

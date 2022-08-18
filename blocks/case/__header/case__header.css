@@ -1,0 +1,10 @@
+@media screen and (min-width: 768px) {
+  .case__header {
+    display: grid;
+    grid-template-areas:
+    "schild avatar"
+    "title avatar"
+    "subtitle avatar"
+    "list avatar";
+  }
+}

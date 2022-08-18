@@ -10,3 +10,12 @@
   font-feature-settings: 'liga' off;
   color: #597DB3;
 }
+
+@media screen and (min-width: 768px) {
+  .case__url {
+    margin: 0;
+    position: absolute;
+    top: -40px;
+    left: 161px;
+  }
+}

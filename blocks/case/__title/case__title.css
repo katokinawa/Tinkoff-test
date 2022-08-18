@@ -5,3 +5,9 @@
   margin: 35px 0 16px 24px;
   color: #333;
 }
+
+@media screen and (min-width: 768px) {
+  .case__title {
+    margin: 47px 0 12px 47px;
+  }
+}

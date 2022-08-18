@@ -7,3 +7,9 @@
   font-feature-settings: 'liga' off;
   color: #333;
 }
+
+@media screen and (min-width: 768px) {
+  .case__title-result {
+    display: none
+  }
+}

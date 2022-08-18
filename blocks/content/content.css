@@ -4,3 +4,15 @@
   background-color: #FFF;
   border: 1px solid #DCE2E8;
 }
+
+@media screen and (min-width: 768px) {
+  .content {
+    max-width: 608px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .content {
+    max-width: 784px;
+  }
+}

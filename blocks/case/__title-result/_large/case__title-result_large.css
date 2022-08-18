@@ -1,0 +1,10 @@
+@media screen and (min-width: 768px) {
+  .case__title-result_large {
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 28px;
+    font-feature-settings: 'liga' off;
+    margin: 49px 0 14px 48px;
+    color: #333;
+  }
+}

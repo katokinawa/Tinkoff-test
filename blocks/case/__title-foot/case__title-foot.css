@@ -7,3 +7,9 @@
   font-feature-settings: 'liga' off;
   color: #333;
 }
+
+@media screen and (min-width: 768px) {
+  .case__title-foot {
+    margin: 48px 0 14px 48px;
+  }
+}

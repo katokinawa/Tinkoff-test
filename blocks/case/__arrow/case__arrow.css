@@ -1,0 +1,17 @@
+.case__arrow {
+  width: 20px;
+  height: 8px;
+  background-image: url(../../../images/arrow.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  left: 122px;
+  top: 7px;
+}
+
+@media screen and (min-width: 768px) {
+  .case__arrow {
+    left: 135px;
+    top: 12px;
+  }
+}

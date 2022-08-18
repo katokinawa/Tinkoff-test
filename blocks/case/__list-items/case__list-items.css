@@ -7,3 +7,14 @@
 .case__list-items:last-child {
   margin: 0 0 5px 24px;
 }
+
+@media screen and (min-width: 768px) {
+  .case__list-items {
+    margin: 0 9px 0 0;
+    grid-area: list;
+  }
+  .case__list-items:last-child {
+    margin: 0;
+    display: none;
+  }
+}

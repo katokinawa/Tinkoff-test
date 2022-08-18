@@ -6,3 +6,9 @@
   line-height: 24px;
   color: #333333;
 }
+
+@media screen and (min-width: 768px) {
+  .case__description {
+    margin: 0 48px 16px;
+  }
+}

@@ -5,3 +5,10 @@
 .case__url-wrapper:last-child {
   margin: 0 0 38px 24px;
 }
+
+@media screen and (min-width: 768px) {
+  .case__url-wrapper {
+    margin: 0;
+    position: relative;
+  }
+}

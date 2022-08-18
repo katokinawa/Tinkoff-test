@@ -6,3 +6,10 @@
   font-feature-settings: 'liga' off;
   color: #111;
 }
+
+@media screen and (min-width: 768px) {
+  .case__title-heading {
+    margin: 10px 0 0 48px;
+    grid-area: title;
+  }
+}
