@@ -1,0 +1,13 @@
+@media screen and (max-width: 1280px) {
+  .case__description_visible {
+    display: none
+  }
+
+}
+
+@media screen and (min-width: 1280px) {
+  .case__description_visible {
+    display: inline-block;
+  }
+
+}

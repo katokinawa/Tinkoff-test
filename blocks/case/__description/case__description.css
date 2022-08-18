@@ -4,11 +4,19 @@
   font-weight: 400;
   font-size: 15px;
   line-height: 24px;
-  color: #333333;
+  color: #333;
 }
 
 @media screen and (min-width: 768px) {
   .case__description {
     margin: 0 48px 16px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .case__description {
+    font-size: 17px;
+    line-height: 28px;
+    margin: 0 48px 24px;
   }
 }

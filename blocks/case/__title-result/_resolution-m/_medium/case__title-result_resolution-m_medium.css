@@ -1,0 +1,19 @@
+@media screen and (max-width: 768px) {
+  .case__title-result_resolution-m_medium {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .case__title-result_resolution-m_medium {
+    margin: 33px 0 14px 48px;
+    color: #333;
+    display: inline-block;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .case__title-result_resolution-m_medium {
+    display: none;
+  }
+}

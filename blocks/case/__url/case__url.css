@@ -19,3 +19,13 @@
     left: 161px;
   }
 }
+
+@media screen and (min-width: 1280px) {
+  .case__url {
+    font-size: 28px;
+    line-height: 32px;
+    position: absolute;
+    top: -47px;
+    left: 201px;
+  }
+}

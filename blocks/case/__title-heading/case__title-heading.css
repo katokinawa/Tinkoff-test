@@ -13,3 +13,9 @@
     grid-area: title;
   }
 }
+
+@media screen and (min-width: 1280px) {
+  .case__title-heading {
+    display: none;
+  }
+}

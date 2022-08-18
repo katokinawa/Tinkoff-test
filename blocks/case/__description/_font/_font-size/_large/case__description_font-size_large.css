@@ -1,0 +1,7 @@
+@media screen and (min-width: 1280px) {
+  .case__description_font-size_large {
+    font-size: 17px;
+    line-height: 28px;
+    margin: 0 71px 16px 45px;
+  }
+}

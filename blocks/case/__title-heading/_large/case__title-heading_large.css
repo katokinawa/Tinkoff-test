@@ -1,0 +1,16 @@
+@media screen and (max-width: 1279px) {
+  .case__title-heading_large {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .case__title-heading_large {
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    font-feature-settings: 'liga' off;
+    color: #111;
+    margin: 12px 0 40px 48px;
+  }
+}

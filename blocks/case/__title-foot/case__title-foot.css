@@ -13,3 +13,12 @@
     margin: 48px 0 14px 48px;
   }
 }
+
+@media screen and (min-width: 1280px) {
+  .case__title-foot {
+    font-size: 28px;
+    line-height: 32px;
+    color: #111;
+    margin: 0 0 14px 48px;
+  }
+}

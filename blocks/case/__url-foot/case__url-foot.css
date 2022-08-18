@@ -14,3 +14,11 @@
     left: 392px;
   }
 }
+
+@media screen and (min-width: 1280px) {
+  .case__url-foot {
+    position: absolute;
+    top: -22px;
+    left: 566px;
+  }
+}

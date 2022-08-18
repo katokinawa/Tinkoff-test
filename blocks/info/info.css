@@ -14,3 +14,10 @@
     grid-template-columns: 88px 200px;
   }
 }
+
+@media screen and (min-width: 1280px) {
+  .info {
+    grid-template-rows: 26px;
+    grid-template-columns: 88px 200px;
+  }
+}

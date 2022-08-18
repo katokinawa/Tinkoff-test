@@ -1,0 +1,14 @@
+@media screen and (max-width: 1280px) {
+  .case__description_resolution_large {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .case__description_resolution_large {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    margin: 0 48px 76px;
+  }
+}

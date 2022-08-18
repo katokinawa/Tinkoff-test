@@ -1,6 +1,11 @@
 .case__list-items {
   background-color: #e0e0e0;
   display: inline-block;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  list-style-type: none;
+  color: #808C9E;
   margin: 0 0 12px 24px;
 }
 
@@ -16,5 +21,18 @@
   .case__list-items:last-child {
     margin: 0;
     display: none;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .case__list-items {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 28px;
+    margin: 0 8px 0 0;
+  }
+  .case__list-items:last-child {
+    margin: 0;
+    display: inline;
   }
 }
