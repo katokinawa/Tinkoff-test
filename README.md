@@ -1,6 +1,7 @@
 # Tinkoff-test
 
 Тестовое задание для вакансии: верстальщик в Бизнес-секреты
+
 [Ссылка на статью с вакансией](https://journal.tinkoff.ru/team/secret-verstak/)
 
 В проекте были использованы такие технологии, как: flexbox, grid, position, выполнен адаптив под разрешения:
@@ -10,5 +11,7 @@
 * до 320 пикселей — мобильные устройства
 
 Подход при адаптиве: mobile-first.
+
+Файловая структура: nested.
 
 Ссылка на GitHub Pages: https://katokinawa.github.io/Tinkoff-test/index.html
