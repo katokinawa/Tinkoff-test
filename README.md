@@ -4,7 +4,7 @@
 
 [Ссылка на статью с вакансией](https://journal.tinkoff.ru/team/secret-verstak/)
 
-## В проекте были изучены и использованы технологии
+## В проекте были использованы технологии:
 - Flexbox.
 - Grid.
 - Position.
@@ -18,5 +18,5 @@
 * До 425 пикселей - мобильные устройства.
 Подход при адаптиве: mobile-first.
 
-## Ссылка на GitHub Pages
-[Github Pages](https://katokinawa.github.io/Tinkoff-test/index.html)
+## Ссылка на GitHub Pages:
+[Github Pages](https://katokinawa.github.io/how-to-learn/)
